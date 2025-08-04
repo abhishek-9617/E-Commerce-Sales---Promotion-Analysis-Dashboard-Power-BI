@@ -64,3 +64,8 @@ You can add visuals or snapshots of the dashboard here:
 
 ![Output 3](outputs/plots/brand_activity.png)
 
+
+## 👤 Author
+
+**Abhishek Bhardwaj**  
+[LinkedIn](https://www.linkedin.com/in/abhishekbhardwaj28) | [GitHub](https://github.com/abhishek-9617)
