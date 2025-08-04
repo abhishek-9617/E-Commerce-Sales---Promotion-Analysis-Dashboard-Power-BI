@@ -56,8 +56,11 @@ Power BI- ECom case study/
 You can add visuals or snapshots of the dashboard here:
 
 
-![Output 1](outputs/plots/fig1.png)
+![Output 1](outputs/plots/price_variation.png)
 
-![Output 2](outputs/plots/fig2.png)
+![Output 2](outputs/plots/traffic_variation.png)
 
-![Output 3](outputs/plots/fig3.png)
+![Output 3](outputs/plots/high_level_metrics.png)
+
+![Output 3](outputs/plots/brand_activity.png)
+
